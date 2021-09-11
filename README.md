@@ -69,6 +69,8 @@ __Занятие 7. Вариационные автокодировщики__
 
 ### Задания
 
+* [Задание 1.](https://github.com/ftad/BM2021/blob/main/Task_BLR.ipynb) Мягкий дедлайн: 26 сентября 23:59, жесткий дедлайн: 3 октября 23:59.
+
 ### Полезные материалы
 Книги:
 * Barber D. [Bayesian Reasoning and Machine Learning.](http://www0.cs.ucl.ac.uk/staff/d.barber/brml/) Cambridge University Press, 2012.
