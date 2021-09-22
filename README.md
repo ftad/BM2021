@@ -52,6 +52,7 @@ __Занятие 2. Байесовская линейная регрессия__
 __Занятие 3. Вариационный вывод и байесовские нейронные сети__
 * [Презентация 1 (слайды 82-102)](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/Bayesian_methods_presentation.pdf)
 * [Презентация 2](https://github.com/ftad/BM2020/blob/master/materials/presentation_bnn_ftad.pdf)
+* [__Задание для самостоятельной работы__](https://github.com/nadiinchi/mlhep2019/blob/master/notebooks/day-4/Bayesian/SparseVD_assignment.ipynb)
 
 __Занятие 4. Методы Markov Chain Monte Carlo__
 * [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_MCMC_ftad.pdf)
